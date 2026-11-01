@@ -8,11 +8,11 @@ We do not currently have a paid bug bounty program for Mage-OS. Please report an
 
 ## For any issues that also apply to Magento Open Source:
 
-Adobe runs a paid bug bounty program for Magento Open Source and Adobe Commerce. Please report any issues common to Mage-OS and Magento there. Any issues that are reported and fixed through that program will be released as a security patch for Magento, and then incorporated into Mage-OS as soon as possible after.
+Adobe runs a paid [bug bounty](https://app.intigriti.com/researcher/programs/adobe/adobepublic) program for Magento Open Source and Adobe Commerce. Please report any issues common to Mage-OS and Magento there. Any issues that are reported and fixed through that program will be released as a security patch for Magento, and then incorporated into Mage-OS as soon as possible after.
 
 ### Where should I report security issues?
 
-We strongly encourage you to report all security issues privately via our [bug bounty program](https://hackerone.com/adobe).  Please provide us with relevant technical details and repro steps to expedite our investigation.  If you prefer not to use HackerOne, email us directly at `psirt@adobe.com` with details and repro steps.  
+We strongly encourage you to report all security issues privately via our [bug bounty program](https://app.intigriti.com/researcher/programs/adobe/adobepublic).  Please provide us with relevant technical details and repro steps to expedite our investigation.  If you prefer not to use HackerOne, email us directly at `psirt@adobe.com` with details and repro steps.  
 
 ## Learning More About Security
 To learn more about securing a Magento or Mage-OS store, please visit the [Security Center](https://magento.com/security).
